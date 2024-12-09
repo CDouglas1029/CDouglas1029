@@ -44,7 +44,7 @@ Fields_of_interests:
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
       <img src="https://ui-lib.com/blog/wp-content/uploads/2022/05/nuxtjs-vs-nextjs-comparision.png" alt="nuxtjs" width="70" height="45" />
       <img src="https://miro.medium.com/max/700/1*iXsCHAHPN7xFAWuuWjE6-Q.png" alt="nextjs" style="width: 45px; height: 45px; display: inline-block;" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Tailwind_CSS_logo.svg" alt="tailwindcss" width="135" height="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
       <img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="bootstrap" width="45" height="45" />0
       <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="45" />
