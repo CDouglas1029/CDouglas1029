@@ -102,5 +102,5 @@ Fields_of_interests:
 
   
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 </p>
