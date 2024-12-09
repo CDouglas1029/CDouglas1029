@@ -97,10 +97,6 @@ Fields_of_interests:
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
-  
 <p align="left">
   <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 </p>
