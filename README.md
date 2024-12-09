@@ -3,10 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-<div align="center"> 
-  <h2 align="center"> 👨🏻‍💻 &nbsp;Visitors </h2>
-  <img alibn="center" src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</div>
 
 
 <p align="center">
@@ -24,8 +20,12 @@ Fields_of_interests:
   [
     "Frontend Development",
     "Backend Development",
-    "Blockchain",
+    "Database Management"
+    "Cloud Solutions"
+    "Automatic Testing"
+    "Agile Environment"
     "DevOps"
+    "Blockchain",
   ]
 ```
   
@@ -53,7 +53,7 @@ Fields_of_interests:
   <div>
     <h2>Back-end</h2>
     <div>
-      <img src="https://www.3braintechnologies.com/wp-content/uploads/2021/05/asp-logo.png" alt="apsnet" width="45" height="25"/>
+      <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/ASP.NET_logo.jpg" alt="apsnet" width="45" height="25"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node" width="45" height="45" />
       <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" alt="nestjs" width="70" height="45"/>
       <img src="https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo-e1588009010920.png" alt="javascript" width="45" height="45" />
@@ -76,7 +76,7 @@ Fields_of_interests:
     <h2>DBMS</h2>
     <div>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
-      <img src="https://www.computerhope.com/jargon/p/postgresql.jpg" alt="postgresql" width="45" height="45" />
+      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql" width="45" height="45" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
       <img src="https://user-images.githubusercontent.com/54184905/102911788-9709a000-448d-11eb-9161-bac188f78110.png" alt="dynamodb" width="80" height="45" />
     </div>
@@ -97,7 +97,6 @@ Fields_of_interests:
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=profullstackdeveloper)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
